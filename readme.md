@@ -7,7 +7,8 @@ Usage
 ------
   
   Settings:
-      remoteDebugger.settings = {
+    
+    remoteDebugger.settings = {
 
         version: 0.2,
 
