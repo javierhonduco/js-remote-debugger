@@ -41,6 +41,7 @@ Usage
 
 
       Just if you wanna start the window.onerror event if enabled... Ah! Also loads jQuery if needed :P
+  Just if you wanna start the window.onerror event if enabled... Ah! Also loads jQuery if needed :P
 
 
       Enjoy! ;)
