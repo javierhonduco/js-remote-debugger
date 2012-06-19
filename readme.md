@@ -8,6 +8,9 @@ Usage
   
   Settings:
     
+
+
+
     remoteDebugger.settings = {
 
         version: 0.2,
